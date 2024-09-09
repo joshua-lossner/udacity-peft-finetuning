@@ -1,4 +1,13 @@
 # Ignore virtual environment
 venv/
+
+# Python cache files
 __pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
 *.ipynb_checkpoints/
+
+# Ignore fine-tuned models
+models/
+results/
