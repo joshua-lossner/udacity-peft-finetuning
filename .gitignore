@@ -11,3 +11,4 @@ __pycache__/
 # Ignore fine-tuned models
 models/
 results/
+gpt2-lora/
